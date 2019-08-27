@@ -7,7 +7,7 @@
 ``` 
 ## Instalação de recursos
 
- O programa precisará, previamente, do plug-in JRE (Java Runtime Evironment) instalado em seu computador. Outrossim, o JRE (para diversos sistemas operacioanis) poderá ser encontrado no próprio site da Oracle, só que com um novo nome (Java SE Runtime Environment), afinal, dispõe de novas tecnologias. Todavia, o prórpio site da Oracle possui tutoriais intuitivos para o uso do JRE nos "diversos sistemas operacionais" citados outrora. 
+ O programa precisará, previamente, do plug-in JRE (Java Runtime Evironment) instalado em seu computador. Outrossim, o JRE poderá ser encontrado no próprio site da Oracle. Todavia, o prórpio site da Oracle possui tutoriais intuitivos para o uso do JRE 8 nos diversos sistemas operacionais que podem abrigar o plug-in. 
 
 [Oracle - JRE 8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jre8-downloads-2133155.html)
 
