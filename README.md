@@ -19,7 +19,7 @@ A execução apresentará uma interface gráfica desenvolvida na IDE NetBeans da
         String pass = "nzzcjxslgcxnnpys";
  ```
  
- Contudo, como o servidor host SMTP ("smtp.gmai.com") desse código é conectado ao gmail, apenas contas google estão aptas ao envio de mensagens.
+ Contudo, como o servidor host SMTP ("smtp.gmail.com") desse código é conectado ao gmail, apenas contas google estão aptas ao envio de mensagens.
 
 ## Contribuindo 
 
