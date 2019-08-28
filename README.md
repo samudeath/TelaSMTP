@@ -13,7 +13,7 @@
 
 ## Uso
 
-A execução apresentará uma interface gráfica desenvolvida na IDE NetBeans da Oracle, que irá conter os campos: "para quem: " (relativo ao remetente da mensagem, podendo ser qualquer email cadastrado em um serviço de envio de e-mail (gmail, hotmail, etc); "Assunto: "(Relativo ao assunto da mensagem a ser enviada); "Mensagem: " (Área textual relacionada ao texto que será enviado); e também contará com os botões: "Enviar" (que envia a mensagem para o remetente); e "Limpar texto" (responsável pela limpeza do campo de texto relacionado à mensagem). Outrossim, o email será enviado da Conta Google referenciada à seguir (que está passível a alterações):
+A execução apresentará uma interface gráfica desenvolvida na IDE NetBeans da Oracle, que irá conter os campos: "para quem: " (relativo ao remetente da mensagem, podendo ser qualquer email cadastrado em um serviço de envio de e-mail (gmail, hotmail, etc); "Assunto: "(relativo ao assunto da mensagem a ser enviada); "Mensagem: " (área textual relacionada ao texto que será enviado); e também contará com os botões: "Enviar" (que envia a mensagem para o remetente); e "Limpar texto" (responsável pela limpeza do campo de texto relacionado à mensagem). Outrossim, o email será enviado da Conta Google referenciada à seguir (que está passível a alterações):
 ```Java
         String mail = "roboticaaula123@gmail.com";
         String pass = "nzzcjxslgcxnnpys";
